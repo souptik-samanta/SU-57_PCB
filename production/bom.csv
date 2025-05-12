@@ -1,5 +1,5 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"BT1, BT2",BatteryHolder_Keystone_1060_1x2032,2,Battery,
+"BT1, BT2",BatteryHolder_Keystone_3034_1x20mm,2,Battery,
 "D1, D2, D3, D4, D5, D6, D7, D8",0805,8,yello,
 D9,LED_D5.0mm,1,LED,
 Q1,TO-92_Inline,1,2N3904,

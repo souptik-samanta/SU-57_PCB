@@ -1,4 +1,4 @@
-26284274092591360
+26286020868868017
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66905,6 +66905,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LIS2HH12TR
+PQFN50P200X200X100-12N
+
+
+0
+12
+12
 Library
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
